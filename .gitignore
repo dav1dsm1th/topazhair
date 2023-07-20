@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/topazhair/config/applicationhost.config
+/.vs/topazhair/FileContentIndex/a5c64a01-4856-4dc7-9296-fc22c40067e4.vsidx
+/.vs/topazhair/FileContentIndex/read.lock
+/.vs/topazhair/v17/.wsuo
+/.vs/topazhair/FileContentIndex/8b6be8d6-e06f-4307-894b-9304b3da284e.vsidx
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/topazhair/FileContentIndex
